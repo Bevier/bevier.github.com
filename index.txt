@@ -1,0 +1,795 @@
+# The Origins of Modern Criminology #
+
+
+**Table of Contents**
+
+
+- [Enlightenment Criminology]  
+    
+    - [Classical Criminology]
+
+        - [Cesare Beccaria]
+        - [Jeremy Bentham]
+    
+    - [Radical Criminology]
+    
+        - [William Godwin]
+        - [Marquis de Sade]
+        
+    - [The Rise and Decline of Classicism]
+
+- [Positivist Criminology]
+    - [Compte Général]
+    - [Adolphe Quetelet]
+    - [Cesare Lombroso]
+    - [Charles Goring]
+
+- [Neoclassical Criminology]
+
+
+
+
+
+
+
+
+
+
+## The Judicial Dark Ages ##
+
+Crime
+: That which opposed the Word of God, as revealed in the dogma of Roman Catholicism
+
+Motivation
+: Pact made with evil spirits
+
+Role of Legal Authority
+: Eradicate the the devil from the body of the condemned
+
+Purpose of Punishment
+: Deterrence -- "to serve as an example and to install terror in the wicked"[^1] 
+
+Social Control
+: Theology
+
+
+
+
+
+
+
+
+
+
+## Enlightenment Criminology ##
+
+Enlightenment philosophers opposed the cruel, inhumane, and irrational legal and penal practices of the era. Disagreeing with the prevailing ideas of crime and punishment, they sought to replace the guiding influence of faith and superstition with reason and experience.
+
+##### Montesquieu #####
+
+###### 1748 - *Spirit of Laws* ######
+
+- Addressed the the nature of religious and moral offenses, the administration of criminal law, and various penal reforms
+
+- Argued against the use of torture and other abuses
+
+---
+
+##### Voltaire #####
+
+###### (1694 - 1778) ######
+
+- Argued against inadequate standards of proof, the use of torture, and excessive use of capital punishment.
+
+- Argued to abolish offenses such as sacrilege, heresy, and blasphemy. 
+
+- In 1762, successfully lobbied for the rehabilitation (post-mortem declaration of innocence) of Jean Calas, who had been falsely convicted of murdering his son and was painfully executed on the wheel.
+
+- In 1766, led a similar assault against the verdict of the de la Barre case, an aristocrat severely punished for blasphemy. 
+
+---
+
+##### Rousseau #####
+
+###### 1762 - *On the Social Contract* ######
+
+In order to avoid *bellum omnium contra omnes* ("the war of all against all") in which all citizens pursue their own narrow self-interests, society must be held together by the **social contract** between citizens and property owners, fulfilled through government authority. 
+
+- Citizens must surrender some portion of individual desires so government can enact and enforce laws in the interests of the common good.  
+
+- The government must agree to protect the common good without invading the natural liberties and rights of individual citizens.  
+
+
+
+
+
+
+
+
+
+
+### Classical Criminology ###
+
+How is crime defined?
+: Violation of the social contract -- *"The true measure of crimes is...the harm done to society..."*[^5]
+
+What is the role of legal authority?
+: Enforcing social contract -- *"This is the ultimate end of every good legislation...the art of leading men to the greatest possible happiness or to the least possible unhappiness..."*[^12]
+
+What motivates crime?
+: *"...every man tends to make himself the center of his whole world..."*[^8] 
+Individuals are inherently motivated to maximize pleasure and minimize pain. The only thing stopping anyone from maximizing their pleasure through crime is the threat of punishment with which it is associated. Thus, motivation is ever-present and must be constantly curbed. 
+
+What is the purpose of Punishment?
+: Deterrence -- *"...to prevent the despotic spirit, which is in every man, from plunging the laws of society into its original chaos."*[^9] 
+
+How is social control accomplished?
+: The rule of law / utilitarian
+
+Key Assumptions
+: Crime is committed by rationally calculating individuals in the pursuit maximizing pleasure and/or minimizing pain.   
+The amount of pleasure / gain derived from a particular crime is approximately the same for all individuals.
+
+---  
+
+---
+
+
+> "Classical theory can be summed up briefly as follows:
+
+> 1. all men being by nature self-seeking are liable to commit crime.
+2. there is a consensus in society as to the desirability of protecting private property and personal welfare.
+3. in order to prevent a 'war of all against all', men freely enter into a contract with the state to preserve the peace within the terms of this consensus. 
+4. punishment must be utilized to deter the individual from violating the interests of others. It is the prerogative of the state, granted to it by the individuals making up the social contract, to act against these violations. 
+5. punishments must be proportional to the interests violated by the crime. It must not be in excess of this neither must it be used for reformation; for this would encroach on the rights of the individual and transgress the social contract. 
+6. there should be as little law as possible, and its implementation should be closely delineated by due process. 
+7. the individual is responsible for his actions and is equal, no matter what his rank, in the eyes of the law. Mitigating circumstances or excuses are therefore inadmissible.
+
+> We can see, therefore, that classical theory is above all a theory of social control..."[^45]
+
+---
+
+---
+
+
+
+
+
+
+
+
+
+
+#### Cesare Beccaria ####
+
+###### (1738 - 1794) - Italy ######
+
+Beccaria's massively influential work represents a proposal of reforms based on the humanist and rationalist ideas of enlightenment philosophers ([Voltaire], [Montesquieu], [Rousseau], Helvétius, and Diderot in France; Kant in Germany; and Ferguson, Smith, and Hume in Scotland). Beccaria's work contained very little original thought and was more of a synthesis of existing enlightenment ideas.[^21] 
+
+With reforms liberal enough to satisfy influential enlightenment scholars (who had for the most part already proposed them) and conservative enough to maintain the existing secular power structure (whose leaders were happy with anything that lessened the power of the Church), Beccaria's text became the most influential work of its kind.  
+
+###### 1764 - *Of Crimes and Punishments* ######
+
+A significant amount of our modern notions of crime and punishment come from Beccaria's call for reform:
+
+Innocent until Proven Guilty
+: *"No man can be called guilty before a judge  has sentenced him, nor can society deprive him of protection before it has been decided that he has in fact violated the conditions under which such protection was accorded him..."*[^2]
+
+Swiftness / Promptness of Punishment
+: *"The more promptly and more closely punishment follows upon the commission of a crime, the more just and useful will it be..."*[^3]
+
+Certainty of Punishment
+: *"The certainty of punishment, even if it be moderate, will always make a stronger impression than the fear of another which is more terrible but combined with the hope of impunity..."*[^4]
+
+The Punishment Must Fit the Crime
+: *"...the obstacles that deter men from committing crimes should be stronger in proportion as they are contrary to the public good, and as the inducements to commit them are stronger. There must, therefore, be a proper proportion between crimes and punishments."*[^6]
+
+Legal Equality
+: ...
+
+
+
+**Capital Punishment**
+
+Beccaria's argument against the use of capital punishment is emblematic of the overall logic he applied throughout his program of reform. An important feature of Beccaria's arguments for reform is the way in which utilitarian and humanist arguments blend into one another. He framed his call for reform in humanist terms: 
+
+> "The murder that is depicted as a horrible crime is repeated in cold blood, remorselessly"[^31] 
+
+The true force of his argument, though, is driven by the cold rationality of utilitarian logic. This argument is two-fold. 
+
+1. Capital punishment is not as effective of a deterrent as a lifelong sentence to forced labor. Capital punishment is intense but only represents a brief moment in time. He argued that a lifetime of forced labor was a more effective deterrent because, while less shocking and intense, its effects were spread over a longer period of time, and the duration of punishment is more important than its intensity.
+> "It is not the intensity of punishment that has the greatest effect on the human spirit, but its duration, for our sensibility is more easily and more permanently affected by slight but repeated impressions than by a powerful but momentary action."[^7]
+
+2. The spectacle of capital punishment creates in some individuals who witness it a mixture of pity or compassion (for the executed) and disdain (for the executioner / the state / the criminal justice system). This weakens the effectiveness of punishment as a deterrent because such feelings get in the way of the only reaction the thought of punishment should inspire: fear.
+> "The death penalty becomes for the majority a spectacle and for some others an object of compassion mixed with disdain; these two sentiments rather than the salutary fear which the laws pretend to inspire occupy the spirits of spectators. But in moderate and prolonged punishments the dominant sentiment is the latter, because it is the only one..."[^46]
+
+Beccaria's humanist calls for change are based on the utilitarian viewpoint of social contract theory. Through this viewpoint, society is conceptualized on a continuum with two extreme poles: individual liberty and the common good / collective prosperity. Given too much liberty, individuals' "despotic spirits" take over. Infringing on any more than the "lease possible" amount of personal liberty, though, is unjust abuse in itself. Thus, the calls for humanist reforms are put forth in an effort to level the scales of the social contract. 
+
+**Free Will & Determinism**
+
+Beccaria's conception of human nature is rather ambiguous[^20] but seems to be based on the existence of both free will and determinism. The influence of free will is seen in his focus on tenets still seen in modern rational choice & deterrence theories, in which the individual is viewed as a rational, calculating actor who chooses between different courses of action in order to maximize pleasure while minimizing pain. 
+
+Beccaria noted, however, that individuals could also be propelled into making certain decisions by forces beyond their control. He posited that such causes of crime included tyranny, inequality of wealth, and poverty. The presence of these deterministic forces does not necessarily imply the absence of free will. The individual can still be seen as a rationally calculating actor capable of making his or her own decisions, but the influence of those external forces changes the equation, tipping the scales in favor of a particular (criminal) course of action. Thus, pure freedom of choice is constrained by external, environmental factors. 
+
+An important critique of Beccaria's program of reforms is that his acknowledgement of environmental causes of crime (i.e., inequality, poverty,etc) did little to inform the the actual reforms he proposed, which were all based on the assumed notion of individual responsibility
+
+**Crime Prevention**
+
+Beccaria's program of reforms has been described as "administrative and legal criminology"[^24] in that it proposed administrative or bureaucratic solutions to crime. From a theoretical standpoint, Beccaria acknowledged that crime can be caused by the social forces of inequality emanating from a social and political system based on private property. The actual reforms he proposed concretely, however, were based on the assumption of individual responsibility; these do not address causal factors related to criminal motivation, other than man's inherent "despotic spirit". 
+
+Beccaria's focus is on the prevention of crime through deterrence, accomplished through the creation of a more efficient system of punishment. The criminogenic forces of poverty and inequality are only vaguely addressed in abstractly-worded statements (e.g. "Do you want to prevent crime?...See to it that the laws favor not so much classes of men as men (sic) themselves"[^12]). While such statements serve to inspire and receive support from humanist reformers, they provide no concrete proposal to ensure they are carried out in practice. 
+
+
+
+
+
+
+
+
+
+
+---  
+
+#### Jeremy Bentham ####
+
+###### (1748 - 1832) - England
+
+Intellectual Influences
+: David Hume   *(1711-1776)*  
+: [Cesare Beccaria] *(1738 - 1794)*
+
+Whereas Beccaria proposed rational and humane criminal justice reforms, Bentham attempted to more firmly substantiate such reforms on philosophical (utilitarian) grounds. Central to Bentham's effort were Hume's writings on the relationship between free will, moral action, and the ultimate purpose of law--to protect and promote the greatest happiness and security to the greatest number of people.  
+
+The two major areas of the criminal justice system at which Bentham directed his rationalist agenda of reforms were (1) punishment and (2) prisons. 
+
+
+###### 1780 - *Introduction to the Principles of Morals and Legislation* ######
+
+Bentham was informed by the utilitarian assumption that potential criminals consciously and rationally calculate the profits and losses of possible criminal action. He thus argued that lawmakers should similarly calculate the measures of sanctions required to prevent crime. This can be accomplished through either **positive sanctions** (rewards) or **negative sanctions** (punishments).
+
+Bentham argued that punishment for a crime should never be more than is necessary to prevent its occurrence. To obtain this rational proportion, or balance, between crime and punishment, he proposed four rules of utility for legislators to follow. 
+
+1. The pleasure derived from any crime should be outweighed by the pain inflicted through its punishment.  
+2. A person about to commit a crime should be persuaded by the very threat of punishment to commit a lesser crime or no crime at all.
+3. A person who has already decided to commit a crime should be persuaded by threat of punishment to do no more harm than necessary. 
+4. Legislators should try to prevent crime as cheaply as possible.  
+
+
+###### 1787 - *Panopticon* ######
+
+At this time, prisons were not used for prolonged incarceration. They only served as temporary holding cells before trial until, if convicted, the time of execution or transfer to penal colony. Bentham took this small transitory portion of the criminal justice system and transformed it into its most central and defining feature. 
+
+Panopticon - *"All seeing"* - Intended to discipline all of society through the power of mind over mind. 
+
+**Architecture**   
+
+- Three-storied circular or polygonal building with prisoners' isolated cells lining the outer edge.  
+- At the center was the Inspectors' Lodge, a three-storied tower from which prison guards, or inspectors, kept surveillance on the prisoners.  
+- Because the windows of the Inspectors' Lodge were draped with blinds, the prisoners could never see their inspectors, subject to "uninterrupted exposure to invisible inspection"[^13].  
+- Built in a metropolitan center to serve as a visible deterrent for free citizens.
+
+**Organization**
+
+- Every minute of every day of a prisoner's life was structured to encourage self-reflection and moral reformation through order, discipline, and isolation. 
+- Required strict regimens of moral and religious instruction.
+- Rules for crushing uniformity and segregation by sex and class. 
+- Prisoners taught some marketable skill through contract labor. Profits went to the prison. 
+- Release of prisoner contingent on payment of bail and successful fulfillment of trade or occupation apprenticeship. 
+
+Many plans were made to build Bentham's Panopticon penitentiary houses (two sites in England were purchased for construction in 1794; also two US sites in Pennsylvania and Illinois), but no pure Benthamite Panopticon was ever fully completed. Bentham's significance, however, lays less in the actual implementation of his architectural designs than in the widespread acceptance and lasting influence of his principles of punishment and prison. 
+
+---
+
+---
+
+> "The ultimate aim, then, of classical criminology was not to lessen punishment but to make it more efficient and to ensure that its principles applied to everyone."[^14]
+
+---
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+#### Questions for Classical Criminology ####
+
+**How progressive were the nature of reforms initiated by Beccaria and Bentham?**
+
+Beccaria was addressing debates that had led other Enlightenment philosophers to very dangerous conclusions.[^23] He was very careful not to be labeled as extreme or radical and even added in later editions of his work that he was no infidel or revolutionary. This is due to the fact that, by the 1760s, Enlightenment philosophy was increasingly materialist and deterministic. What made such a position so dangerous was that it not only opposed the Church. It challenged the legitimacy of private property and the entire social system of governance. 
+
+> "All Beccaria's sources raised very difficult questions, which could remove the basic justifications for the working criminal justice systems. They suggested that people were not responsible for their acts, that they had been led to crime by social injustice, and perhaps that there was no rational reason to prefer virtue to crime...There was no reason why Beccaria should not have explored these ideas--except that, if he did, he would have had to acknowledge the materialist sources on which he was drawing...Beccaria is seen to have been on the reforming side--but definitely as a conservative force of reform."[^22]
+
+**Why did the proposals of Beccaria and Bentham gain widespread acceptance? Whose interests did their ideas serve?**
+
+- Because it did not require the existing social framework to be completely revolutionized, *Of Crimes and Punishments* represented a set of humanist reforms that governments and wealthy ruling elites could afford to support. 
+    
+- Those groups searching to wrestle power away from the Church and aristocracy, such as the emerging intelligentsia, the bourgeoisie, and "enlightened" monarchs who stood to benefit from the weakening of lords and clerics.[^15] 
+
+- The rationalization of punishment also served to benefit the middle-class groups by providing a more efficient protection of private property.[^18]
+
+---
+
+#### Further Reading ####
+
+[Beirne 1991](http://onlinelibrary.wiley.com.proxy.lib.utk.edu:90/doi/10.1111/j.1745-9125.1991.tb01088.x/abstract "Beirne, Piers. 1991. "Inventing Criminology: The 'Science of Man' in Cesare Beccaria's *Dei Delitti E Delle Pene* (1764)." *Criminology* 29(4): 777-820.")
+
+> Piers Beirne's in-depth analysis of Beccaria's [Of Crimes and Punishments] (Dei delitti e dell pane) shows that this classical work was not merely the application of humanism and legal rationality to crime and penality. Although Beccaria does emphasize these elements, his work is more precisely characterized as an application of the "science of man", a deterministic framework inspired by Scottish enlightenment philosophers Francis Hutcheson and David Hume. Beirne does not argue for Beccaria's work to be categorized as positivist but does make the case that our concept of "classical criminology" should be rethought, especially its reliance on the assumption of free will. 
+
+
+
+
+
+
+
+
+
+
+---
+
+### Radical Criminology ###
+
+> "Enlightenment criminology was almost as broad a spectrum as that of the twentieth century. To see Classical views alone as representing the side of reform would be like seeing the Californian treatment model of the 1950s as the sole trend in twentieth-century penology."[^19]
+
+---
+
+Whereas [Classical Criminology] argued that society's right to punish was morally founded on the justice and fairness of the social contract, radical criminologists denied that the original social contract was just or fair. They argued that reforming a morally bankrupt system would not be enough and advocated for political, economic, and moral revolutions.
+
+**Defining Principles**
+
+- Legal definitions of crime were created by those in power to protect their wealth and property, preserve their status, and maintain the social hierarchy atop which they sat. 
+
+- The economic system based on private property is itself a fundamental crime against society. 
+
+- The laws of nations are more oppressive than anarchy. 
+
+- All forms of punishment are illegitimate until the abolishment of social injustice. 
+
+
+
+
+
+
+
+
+
+
+#### William Godwin ####
+
+###### (1756-1836) - England ######
+
+Intellectual Influences
+:  [Rousseau]
+:  Helvétius
+:  Hume
+:  d'Holbach
+
+Godwin was inspired and influenced by the same Enlightenment scholars as [Cesare Beccaria], but advocated for wildly different reforms. A number of scholars[^26] have noted that it was Godwin who carried these sources to their logical (and radical) conclusions. 
+
+###### 1793 - *Enquiry Concerning Political Justice* ######
+
+Godwin and Beccaria not only shared the same scholarly influences. The substantial portion of Godwin's political treatise devoted to criminal justice was entitled *Of Crimes and Punishments*, almost certainly an acknowledgement of their shared intellectual ground. 
+
+Godwin placed issues of punishment and criminal justice at the center of his political debate, positioning them as the state's ultimate *raison d'être* (reason for existence) as well as it's last line of defense. 
+
+Definition of Crime
+:  *"...offenses which the wealthier part of the community have no temptation to commit."*[^27]
+
+This definition does not mean that those with wealth are in some way morally superior to those who commit crimes. Rather, it implies that those groups with wealth, power, and status were the ones that wrote the laws in the first place, and they would only include offenses that they had no need or desire to commit. 
+
+Causes of Crime
+: *"The fruitful source of crimes consists in this circumstance, one man's possessing in abundance that of which another man is destitute."*[^28]
+
+Economic system based on private property --> Inequality / Poverty --> Crime
+
+Punishment
+: *"...begins with violently alienating the mind from the truth with which we wish it to be impressed."*[^29]
+
+Godwin argued that the use of punishment or coercion in any form only appealed to the very lowest portion of human nature. No matter how morally sound the intention, he argued that its result was nothing more than alienation of the subject. He therefore found no justification for punishment. He addressed and argued against previous justifications on their own humanist and utilitarian grounds. 
+
+- **Punishment as Retribution** 
+    - Restricts itself to a past that cannot be changed and thus *"...must be ranked among the most pernicious exhibitions of an untutored barbarism..."*[^32]
+
+- **Punishment as Incapacitation**
+    - *"...has been employed to justify the most execrable tyrannies"*[^32]
+
+- **Punishment as Deterrence**
+    - *"...had led to the most extreme brutalities of judicial torture in an attempt to impress the public mind..."*[^33]
+
+- **Punishment as Rehabilitation**
+    - Only had the potential to force compliance in its simplest form. Its only message was to blindly *"submit to force, and abjure reason. Be not directed by the convictions of your understanding, buy by the basest part of your nature, the fear of personal pain, and a compulsory awe of the injustice of others."*[^30]
+
+Godwin's objections to the first three justifications of punishment (retribution, incapacitation, deterrence) were fairly commonly held opinions in the 1790s. It was his latter objection that stood against the grain. In Europe as well as the US, the widespread use of capital and corporal punishment was being replaced by imprisonment with the goal of moral rehabilitation. This rehabilitation was commonly attempted through subjecting prisoners to hard labor and solitary confinement (for moral reflection). In reference to these practices, he wrote that:
+
+> "...the institution of personal slavery has, within a few years, made a considerable progress in the island of Great Britain."[^35]
+
+Godwin referred to such reforms as "well-intentioned but misguided". His argument was both utilitarian and humanist. On utilitarian ground, he argued that this was still a form of physical and mental coercion and would therefore only serve to alienate the individual who was forced into compliance. On humanist grounds, he argued that forced labor was both futile and barbarous and that, because of our social nature, solitary confinement was "uncommonly tyrannical and severe".[^34] 
+
+Crime Prevention:
+: *"Godwin understood the fact that Beccaria could not bring himself to face, that crime arose from factors within society, and could only be removed by changing that society."*[^36]
+
+For Godwin, the social problem of crime was intrinsic to an economic system based on private property. Thus, truly addressing the problem would require abolishing existing systems of government and property-ownership. This would require completely reorganizing society at a smaller "parish" level, decentralizing systems of power and authority, and collectively realizing that each person had a duty to support the less fortunate. If an individual broke a rule in this reorganized society, Godwin only justified their temporary incapacitation if required for the purpose of immediate safety, never to punish or to rehabilitate. This, then, would be the sole purpose of the criminal justice system:
+
+> "Restrain the offender as long as the safety of the community prescribes it, for this is just. Restrain him not an instant from a simple view to his own improvement, for this is contrary to reason and morality."[^37]
+
+
+
+
+
+
+
+
+
+
+---
+
+#### Marquis de Sade ####
+
+###### (1740 - 1814) - France ######
+
+Intellectual Influences
+:  [Rousseau]
+:  Helvétius
+:  Hume
+:  d'Holbach
+
+**The Social Contract**
+
+De Sade's interpretation of the social contact, similar to Godwin's definition of crime, was radically different from those that came before it. 
+
+> "De Sade imagines a primitive age when the world was divided between the weak and the strong. When the strong had seized a certain amount of material goods by theft and violence, society was created to draw a line against further usurpations. Thereafter, anyone who tried to do what the strong had already done was described as a criminal. The weak man agreed to the contact only to safeguard what little he had left, while the strong (or rich) planned to ignore his own side of the agreement. Society and property were simply judicial theft. Punishing theft meant only punishing the weak for trying to retain what had once belonged to him."[^39] 
+
+**Prison Reform**
+
+Like William Godwin, de Sade also attacked the increasingly widespread institution of imprisonment. His arguments were utilitarian and, considering he was personally imprisoned for more than 30 years of his life, informed by his own experience. He wrote that such practices as solitary confinement make individuals "come out of prison more sly and more dangerous than ever."[^38]
+
+**Capital Punishment**
+
+For de Sade, capital punishment was a worse crime than those it was used to punish. Whereas an individual might be propelled by any number of external forces to commit heinous acts in the heat of passion, sentencing another human being to die was a cold, deliberate act, barbaric and impassively premeditated.[^43] This stance was practice as well as principle for de Sade, as he actually refused to convict individuals in the majority of cases brought before him when serving as a Grand Juror. This was even the case for individuals brought before him that he felt had persecuted him throughout his life.[^44]
+
+**Who is Criminal?**
+
+De Sade rejected any attempt to make formal, permanent distinctions between 'criminal' and 'citizen'. He argued that these are not intrinsic qualities of one's character, that one could be moved by circumstance to "crime or to virtue, and often, to both within the space of a single day."[^40] His own personal life provides a great example of this maxim. 
+
+**The Relativity of Crime**
+
+De Sade pointed out that definitions of crime are different from society to society. Arguing against any kind of moral absolutism, he quotes extensively from examples of various cultural practices that one society might find abhorrent while another would view them as common, even moral (e.g., adultery, infanticide). 
+
+**The Irrationality of Crime**
+
+The majority of de Sade's contemporaries' positions on human nature, crime, and punishment derived from the assumption of a rationally calculating individual who would commit any act if the perceived pleasure outweighed the pain of punishment with which it was associated. De Sade, foreshadowing the positions of radical criminologists almost two centuries later,[^42] argued that some crimes may be committed for what could be conceptualized as rather irrational reasons. What if an individual was motivated to commit a crime simply because it was against the rules? What rules could be devised to prevent such crimes? What if crime were an act of revolt against authority, an anarchist gesture? How could a rational authority prevent this seemingly irrational action? 
+
+---
+
+#### Comparing Enlightenment Criminologies ####
+
+At the heart of the divide between [Classical Criminology] and [Radical Criminology] are two opposing views on human nature. This is not the usual dichotomy of free will vs. determinism. Instead, these two starting assumptions might be classified as Original Sin vs. Original Innocence (or the Noble Savage). 
+
+For Classical theorists, who represent the side of Original Sin, humanity is inherently wicked, inflicted with "the despotic spirit".[^9] Left unchecked, this leads to the war of all against all, in which the powerful devour the weak. The only way to guard against this scenario is the establishment of effective social controls, which is accomplished through the establishment of society based on the social contract. 
+
+For Radical theorists, this chronology is inverted. It was the establishment of the social contract that marked the true beginning of injustice. Whereas Classicists conceptualize the social contract as a solution to the problems of an inherently-flawed humanity, Radicals saw this imposition of social order as the problem, in that it created a flawed social system through which the few had power over the many. It was unjustly established to protect a social and economic system based on private property and maintain material inequality. By creating poverty, it created crime. The doctrine of Original Sin was the lie that those in power told to justify their own sins over those without property.
+
+When the two schools of through are compared in this and other respects, it is relatively easy to see why one gained popularity among those in power and one did not. Thus, classical-style reforms, inspired by [Cesare Beccaria] and [Jeremy Bentham] were widely implemented across Europe and the United States in the latter half of the 18th century and the beginnings of the 19th century. Such reforms went a long way in terms of curbing the gratuitous use of legal torture  and other forms of corporeal and capital punishments. Such practices were replaced with "the birth of the prison",[^10] which was thought to serve both as a deterrent as well as a site of rehabilitation. 
+
+
+
+
+
+
+
+---
+
+#### Further Reading ####
+
+[Jenkins 1984](http://www.heinonline.org.proxy.lib.utk.edu:90/HOL/Page?page=112&handle=hein.journals%2Fbjcrim24&collection=journals "Jenkins, Philip. 1984. "Varieties of Enlightenment Criminology." *British Journal of Criminology* 24(2): 112-130.")
+
+---
+
+
+
+
+
+
+
+
+
+### The Rise and Decline of Classicism ###
+
+Classical-inspired penal reforms and 'modern' legal codes:
+
+- 1769 - Russia
+- 1780 - Prussia
+- 1786 - Tuscany 
+- 1786 - United States (Pennsylvania)
+- 1788 - Austria
+- 1791 - France
+
+- 1832 - Branding abolished in France
+- 1834 - Branding abolished in England
+
+---
+
+##### The Decline of Punishment as Public Spectacle #####
+
+> "...a few decades saw the disappearance of the tortured, dismembered, amputated body, symbolically branded on face or shoulder, exposed alive or dead to public view. The body as the major target of penal repression disappeared."[^11]
+
+Before the reforms that began to be proposed in the 1760s, punishment was enacted through public performance, or **spectacle**. Criminals were sentenced to die in the most gruesome and horrific ways one could possibly imagine. Michel Foucault begins his pivotal work _Discipline & Punish: The Birth of the Prison_ with an example of one such public spectacle: an account of the public torture and execution of a man convicted of attempting to assassinate King Louis XV in 1757. The account from a witness of the event spans over three pages (reader discretion is advised):
+
+> "...the flesh...torn from his breasts, arms, thighs and calves with red-hot pincers...burnt with sulphur, and...poured molten lead, boiling oil, burning resin, wax and sulphur melted together and then his body drawn and quartered by four horses and his limbs and body consumed by fire, reduced to ashes and his ashes thrown to the winds"[^47]
+
+The purpose of such punishment was the installation of fear within those witnessing the spectacle. The whole event was a performance, meant for public display and consumption. It was thought that if no one watched, it would serve little to no purpose.
+
+This is one of the major shifts represented by [Classical Criminology], the decline of torture as a public spectacle. This shift was associated with humanist calls for rationalist legal reform. 
+
+> "It was as if the punishment was thought to equal, if not to exceed, in savagery the crime itself, to accustom the spectators to a ferocity from which one wished to divert them, to show them the frequency of crime, to make the executioner resemble a criminal, judges murderers, to reverse roles at the last moment, to make the tortured criminal an object of pity or admiration."[^25]
+
+What was actually noticed and implemented from these calls for reform, though, sprang from their utilitarian logic. Of specific importance in this context was the second facet of [Cesare Beccaria]'s argument against capital punishment: there are more efficient ways to instill fear and thus deter crime. These public spectacles were instilling fear, but they were instilling other emotions as well, emotions such as compassion for the condemned and contempt for the state. 
+
+This mix of compassion and contempt not only polluted the pure fear that the spectacle was designed to induce. Such feelings had the power to bring the legitimacy of the whole social system into question. If the state could only maintain social order by answering its citizens' violence with an even greater violence, on what moral basis did it have the right to punish? Or even the right to govern? What distinguished criminal violence from state violence? 
+
+If the state's rule is only maintained through the exercise of raw power and brutish force, it is ripe for revolution. For the state to maintain its power, its monopoly on the legitimate use of force, its right to punish, a new system of punishment based on a new logic had to be devised. Two central features of this shift in logic are:
+
+1. The disappearance of torture and execution as public spectacle. 
+2. The elimination of physical pain from the process of punishment. 
+
+Thus, moved by the utilitarian side of humanist arguments: 
+
+> "One no longer touched the body, or at least as little as possible, and then only to reach something other than the body itself."
+
+This is not to say that there were no longer any physical effects of punishment. The new classical penal reforms might have been aimed toward moral rehabilitation, but the deterrents of incarceration and forced labor still had direct physical effects on the body. The difference lies in the fact that, in previous forms of punishment, the imposition of physical pain was not exactly an end-in-itself (except in cases fueled by the fires of retribution), but it was _the_ means to a very specific end, deterrence through spectacle. In classical punishment, the imposition of physical pain was incidental to its main purpose, the deprivation of liberty. 
+
+> "...the punishment-body relation is not the same as it was in the torture during public executions. The body now serves an an instrument or intermediary: if one intervenes upon it to imprison it, or to make it work, it is in order to deprive the individual of a liberty that is regarded both as a right and as property...From being an art of unbearable sensations punishment has become an economy of suspended rights...If it is still necessary for the law to reach and manipulate the body of the convict, it will be at a distance, in the proper way, according to strict rules, and with a much 'higher' aim."[^41]
+
+It was not that the purpose of punishment categorically changed. Classical punishment shared the old guard's goal of the prevention of crime through deterrence. The fundamental change was in the conceptualization of how deterrence was accomplished. According to the logic of classical theorists, the effectiveness of punishment as a deterrent:
+
+> "...is seen as resulting from its inevitability, not from its visible intensity; it is the certainty of being punished and not the horrifying spectacle of public punishment that must discourage crime; the exemplary mechanics of punishment changes its mechanisms."[^25]
+
+The 'mechanisms' of deterrence were no longer measured by their perceived intensity but instead by factors such as their duration perceived _certainty_ of being carried out.[^48] Thus, whereas the main purpose of punishment (deterrence) did not change, both the mechanics (what influences deterrence) as well as the _object_ of punishment (what it was directed towards), shifted significantly. The shift in the object of punishment coincided with the classical addition of a new purpose of punishment, that of rehabilitation. With this goal, the object of punishment shifted from the body, to the _soul_. 
+
+
+
+
+
+
+
+
+
+
+##### The Guillotine as Progressive Reform #####
+
+ 
+
+
+
+
+
+
+
+
+## Positivist Criminology ##
+  
+**Defining Features**
+
+- Informed by the belief that natural science methods can be directly applied to social science to uncover natural laws of human behavior.  
+
+- Guided by the belief that observational categories are scientifically uncovered, independent of theory
+
+
+
+
+How is crime defined?
+: 
+
+What motivates crime?
+:
+
+What is the role of legal authority?
+:
+
+What is the purpose of punishment?
+:
+
+How is social control accomplished?
+:
+
+
+
+
+
+
+
+
+
+
+---
+
+---
+
+
+| [^16] | Classical Criminology | Positivist Criminology |
+| - | --------------------- | ---------------------- |::
+| **Focus of Criminological Study** | Administration of justice and prevention of crime | The criminal and the causes of crime |
+| **Explanation of Human Action & Responsibility** | Emphasis on rational decisions based on free will and individual responsibility [^17] | Emphasis on largely deterministic forces outside of individual control|
+| **Crime Causation** | Internal psychological and social factors | External social, economic, and mental forces |
+| **Punishment** | Should fit the crime | Should fit the criminal |
+
+---
+
+---
+
+
+
+
+
+
+
+
+
+
+#### Compte Général ####
+
+###### 1825 - The first national statistical tables on crime ######
+
+
+
+
+
+---
+
+#### Adolphe Quetelet ####
+
+###### 1831 - *Research on the Propensity for Crime at Different Ages* ######
+
+
+
+
+
+---
+
+#### Cesare Lombroso ####
+
+###### 1876 - *Criminal Man* ######
+
+
+
+
+
+---
+
+#### Charles Goring ####
+
+###### 1913 - *The English Convict: A Statistical Study* ######
+
+
+
+
+
+---
+
+#### Further Reading ####
+
+[Shichor 2010](http://www.tandfonline.com.proxy.lib.utk.edu:90/doi/abs/10.1080/10511253.2010.488109 "Shichor, David. 2010. "The French-Italian Controversy: A Neglected Historical Topic in Criminological Literacy." *Journal of Criminal Justice Education* 21(3): 211-228.")
+
+
+
+---
+
+### Neoclassical Criminology ###
+
+
+
+
+
+
+
+
+
+[^1]:(quoted in Beirne 1993:12)
+
+[^2]:(Beccaria \[1764\] 1963:30)  
+
+[^3]:(Beccaria \[1764\] 1963:55)
+
+[^4]:(Beccaria \[1764\] 1963:58)
+
+[^5]:(Beccaria \[1764\] 1963:64)
+
+[^6]:(Beccaria \[1764\] 1963:62)
+
+[^7]:(Beccaria \[1764\] 1963:46-7)  
+
+[^8]:(Beccaria \[1764\] 1963:11)
+
+[^9]:(Beccaria \[1764\] 1963:13)
+
+[^10]:(Foucault 1977)
+
+[^11]:(Foucault 1977:7)
+
+[^12]:(Beccaria \[1764\] 1963:93)
+
+[^13]:(Bentham \[1780\] 1973:III-88)
+
+[^14]:(Beirne & Messerschmidt 2011:91)
+
+[^15]:(Jenkins 1984:116)  
+
+[^16]: Adapted from Beirne & Messerschmidt 2011:92; see table 4.1  
+
+[^17]: Beirne 1991 complicates this distinction
+
+[^18]:(Foucault 1977:75-78)  
+
+[^19]:(Jenkins 1984:114)
+
+[^20]: See Beirne 1991
+
+[^21]:(Maestro 1942; Philippson 1970:51-53)
+
+[^22]:(Jenkins 1984:119-121; See also: Foucault 1977; Philippson 1970)
+
+[^23]:See [Radical Criminology]
+
+[^24]:(Vold 1979:26)
+
+[^25]:(Foucault 1977:9)
+
+[^26]:(Brown 1926; Woodcock 1963; Godwin 1976; Jenkins 1984:122)
+
+[^27]:(Godwin \[1793\] 1976:631-700)
+
+[^28]:(Godwin \[1793\] 1976:731)
+
+[^29]:(Godwin \[1793\] 1976:635)
+
+[^30]:(Godwin \[1793\] 1976:644)
+
+[^31]:(quoted in Foucault 1977:9)
+
+[^32]:(Godwin \[1793\] 1976:635-674; Quoted in Jenkins 1984:124)
+
+[^33]:(Jenkins 1984:124)
+
+[^34]:(Godwin \[1793\] 1976:676)
+
+[^35]:(Godwin \[1793\] 1976:678)
+
+[^36]:(Jenkins 1984:125)
+
+[^37]:(Godwin \[1793\] 1976:675)
+
+[^38]:(de Sade \[1787\] 1964:46)
+
+[^39]:(Jenkins 1984:127; see de Sade [\1797\] 1968:114-119)
+
+[^40]:(de Sade \[1797\] 1968:15)
+
+[^41]:(Foucault 1977:11)
+
+[^42]:e.g., see New Deviance theory (Young 1971); The New Criminology (Taylor, Walton & Young 1973); and contemporary Cultural Criminology (Ferrell 1999; Hayward & Young 2004; Ferrell, Hayward, & Young 2008)
+
+[^43]:(de Sade \[1797\] 1968:418; see also Jenkins 1984:127)
+
+[^44]:(de Sade 1965:27-31; see also Jenkins 1984:127)
+
+[^45]:(Taylor, Walton, & Young 1973:2)
+
+[^46]:(Beccaria 1764:47)
+
+[^47]:(Foucault 1977:1)
+
+[^48]: This reasoning can also be seen in Beccaria's utilitarian argument against capital punishment, in which he posits that punishment's intensity is less important than its duration. 
+
+[^49]:
+
+[^50]:
+
+[^51]:
+
